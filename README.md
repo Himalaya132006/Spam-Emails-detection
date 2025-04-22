@@ -1,2 +1,1 @@
-# Spam-Emails-detection
-Spam emails detection
+To predict whether an email is spam or not using features such as the number of links, attachments, and sender reputation. This classification will help email systems reduce spam exposure and enhance user security by accurately identifying and filtering out unwanted or harmful messages.
